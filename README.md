@@ -1,5 +1,5 @@
-# Hrss-repository
-hello 
+# HRSS Repository
+hello my name is Haris from Informatics, im from scala. yoroshiku onegaishimasu
 Git adalah salah satu version control mengecek perubahan suatu file
 version control digunakkan untuk melihat perkembangan fitur/ version suatu apps atau web, dapat melihat problem yang ingin diperbaiki, meningkkatkan fitur dari fitur sebelumnya
 kenapa GitHub?
